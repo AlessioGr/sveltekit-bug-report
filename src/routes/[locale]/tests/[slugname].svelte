@@ -14,10 +14,7 @@
 </script>
 
 <script lang="ts">
-    import { goto } from "$app/navigation"
 
-
-    //console.log(tests);
 
 </script>
 
